@@ -1,17 +1,11 @@
 //PROJEKTO STRUKTURA
 
-<APP>
-    <NAVIGATION>
-        <NavLoginForm>
-        <NavMainButtons>
-        <NavLogoutButton>
-    </NAVIGATION>
-    <MAINPAGE>
-        <Dashboard>
-            <Graph>
-            <Calendar>
-        </Dashboard>
-        <Incomes>
-        <Expenses>
-    </MAINPAGE>
-</APP>
+Prisijungimai:
+
+ADMINISTRATORIUS:
+prisijungimo vardas: admin@admin.lt
+slaptažodis: admin123
+
+VARTOTOJAS:
+prisijungimo vardas: test@test.lt
+slaptažodis: test123
