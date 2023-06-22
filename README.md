@@ -1,5 +1,3 @@
-//PROJEKTO STRUKTURA
-
 Prisijungimai:
 
 ADMINISTRATORIUS:
